@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "voicemakeappdemo",
+  "private_key_id": "9c859d9ac503de77cd2e99a899b0cfd7570da826",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCY+7Pi4jaXEo8c\naR+dU2mJ8zPOdzt9z42PbF6CybXIqM3QRQ3BMCLEwwmUQN2qdFIMJwDq/+seXqpE\nLC6QSgo2m+3adS5brYgR5HXHbMeeSuREvdWkxaHyx4mIu7uDtFieH3rQZ6ugftC2\nnwPZry9SkQo5libKUUZxgTWPWZTQw/apm7WCXV94ILQDNQRVmAZQ3ixcOd4DGfYP\niD1VCdevSYeJXV7BTI1JZuT7Cyy4flHIWt+bvPiulwpSzw40ZH1nnMAibj/5oi3f\nLfbOKU5YoBaHgaU42UwHcWrRDsJxxyOUzRZ9K/1ThVkEiG20Xy8lmnwIHlgXA71E\nUV3CaqpLAgMBAAECggEAFE6pKM9ldrVYeOl9cFlfs5esg1Yxd/hirqyweQUEk+/Q\nbjqUYlYc72iCb4MSyasqLwHIbelt0Pi4+laxEac6ZthZAPw4HKRS4Skl90R51QnU\n9kkKwJYZcsxI9fURpaB9ePPtzhdM4X+j/fHqxW0rR3cIV++WE5opUyzXKsG17uY3\nv5yfjIBRzj1bRBEcgoofVDaeI8VyFls+1+MMafuVRgMqvYasc8Jo6Iq8RcN8rvcG\n2u3Jub7Lt5q8D4MgoNIQ5Z+Okgvn7YREq6hMutE7NGX2DNH5bVZTZL5I+eBouI/1\nyMnekdluGhJOVno3EeBso+nGcAbdaGvpn5pnqmzRsQKBgQDUMkDMljy1V5Xw7kHM\nVMZoJryyTPocO+6OT4UM1k2JjtIZtm8qe6JRXa0bfgNxEGfi+XjXX05Z7D8JkRyB\nY2Vl6J1BoDRJckDCA2TSOhuzHSzkgfo10pOpQvF6vY8cg9pe8Qj8/hqvwu4/63fj\nK8UQOc0MSkno7nG4jPwIwAXfEQKBgQC4kETR9zXyKaFVFgcb8KyaQXBB0++8BCHo\nwQfnUu8AFWse/4PPxCkxG5lktzqocTM7gOWw+CkwNHaHUaYRoveJkG9TYWL4Yo/H\nLDIgf878MLgOWQrGczZixs30/FfNGPiht5/sXRgaIFvC3ldt6cUkfNI1QuAAPWFr\nHx8XGZjrmwKBgBwjyeoXpldaFR1NS1aAi4s2T+HJSYXDAODIdNl99exfD0evpNBa\ncu0dYh56OJSe21gDQ140WlyccsOfBcu21bSNA4W3bBetWh8gehdS82duYAyxm+/V\nTBWvNfzT9I2Qgr4CcvGx9PIIBLZfUJfEry52q9WMaH7GWDhkIew7IswxAoGBAIuo\nJ1tWHA0FcV4IEBMVWBZVhBNbwuFboykTv95MBCvlCSzonh4+Sgkt4DG08H77QZA6\nJhR2g/xFBpe4sdhQn80JbSQD4jcfpbpJ+BhdfguY9f1tZVjrX3D5DGnf9LRuu9zr\nLOlXPGCwsZ7QTgoOxa2pggrpcsTbrXa4kvcQ2IUXAoGAJpQBOIwIV7DzJcSUQ/sC\nGk9zOJN0zc2DJb+r00uimSho89Se8QYvD3HrVXS0SahZ+BSN2uq58TYHPIcpqkVp\nRJfLLRXV3Urf9oxd+kMTQX9utFUFYPmU7L9bRI+blB662wPSd5125OufkiGeezz1\n0w7lGJxV5ks2Ic8S4dlEWuU=\n-----END PRIVATE KEY-----\n",
+  "client_email": "englishreader202211@voicemakeappdemo.iam.gserviceaccount.com",
+  "client_id": "112439655332957144260",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/englishreader202211%40voicemakeappdemo.iam.gserviceaccount.com"
+}
