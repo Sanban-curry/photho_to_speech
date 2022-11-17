@@ -1,3 +1,5 @@
+import tempfile
+
 import streamlit as st
 from PIL import Image
 
@@ -5,7 +7,8 @@ import module
 
 
 def views():
-    st.title('PNG to MP3 Converter')
+    st.title('英語のテキストを写真で撮って音声ファイルに変換できるアプリ')
+    st.write('受験勉強での過去問や、資格取得のために英文を音声ファイルにしたいと思うことは少なくないと思います。そのために、作成したアプリケーションです。')
 
     st.markdown('### Upload Photo')
 
@@ -13,9 +16,10 @@ def views():
     input_data = None
     if uploaded_photo_file is not None:
         img = Image.open(uploaded_photo_file)
-        img_path = f'image_file/{uploaded_photo_file.name}'
-        img.save(img_path)
-        text = module.photototext(img_path)
+        with tempfile.TemporaryDirectory() as image_file:
+            img_path = f'{image_file}/{uploaded_photo_file.name}'
+            img.save(img_path)
+            text = module.photototext(img_path)
         input_data = st.text_input('Is this sentence right?', text)
 
     if input_data is not None:
